@@ -1,0 +1,2 @@
+c= "tut"
+print(c)
